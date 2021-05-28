@@ -11,7 +11,9 @@ Most programming I have been working on is in Java and Python, thus far I've pre
 ### Skills
 
 #### Programming Languages:
+
 Proficient: Python, Java, C, C++, SQL
+
 Familiar: Git, React, JavaScript, Django, Pyspark, MATLAB, LAMMPS
 
 #### Tools:
