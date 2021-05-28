@@ -22,7 +22,3 @@ SAP, MS Office Suite, AutoCAD, Enovia, Bluebeam, ArcGIS, ANSYS, FactSage, Tensor
 #### Languages
 - English: Native
 - French: Fluent
-
-## Projects
-
-Coming soon!
