@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm Hunter Kimmett, a recent graduate from the University of Calgary Masters of Software Engineering program. Previously I received a Bachelors Degree in  Materials Engineering from McGill University and worked in Project Engineering and Coordination. I am excited to begin my career in Software and am currently seeking opportunities.
+I'm Hunter Kimmett, a recent graduate from the University of Calgary Masters of Software Engineering program. Previously I received a Bachelors Degree in  Materials Engineering from McGill University and worked in Project Engineering and Coordination.
 
 ## About Me 👋
 
